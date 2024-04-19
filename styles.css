@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f1f1f1;
+    background-color: #add8e6; /* Light blue background */
     color: #333;
 }
 
@@ -55,7 +55,7 @@ section {
     color: #333; /* Dark text */
     text-decoration: none;
     border-radius: 5px;
-    border: 2px solid #ffd700; /* Gold outline */
+    border: 2px solid #00008b; /* Dark blue outline */
     transition: all 0.3s ease;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
 }
