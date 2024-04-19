@@ -57,14 +57,14 @@ section {
     border-radius: 5px;
     border: 2px solid #00008b; /* Dark blue outline */
     transition: all 0.3s ease;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3); /* Soft shadow */
 }
 
 .button:hover {
     background-color: #ffa500; /* Orange on hover */
     color: #fff; /* White text on hover */
     transform: translateY(-2px); /* Move button up on hover */
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Slightly stronger shadow on hover */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5); /* Stronger shadow on hover */
 }
 
 .button:active {
