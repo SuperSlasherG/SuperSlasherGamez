@@ -3,12 +3,12 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f1f1f1;
-    color: #666; /* Lighter text */
+    color: #333;
 }
 
 header {
-    background-color: #ffd700; /* Gold */
-    color: #333; /* Dark text */
+    background-color: #00008b; /* Dark blue */
+    color: #ffd700; /* Gold text */
     padding: 20px;
     text-align: center;
 }
@@ -26,7 +26,7 @@ header {
     display: inline-block;
     padding: 10px 20px;
     background-color: #ffd700; /* Gold */
-    color: #666; /* Lighter text */
+    color: #00008b; /* Dark blue text */
     text-decoration: none;
     border-radius: 5px;
     border: 2px solid #00008b; /* Dark blue outline */
@@ -52,5 +52,5 @@ ul {
 
 ul li {
     margin-bottom: 10px;
-    color: #666; /* Lighter text */
+    color: #00008b; /* Dark blue text */
 }
